@@ -30,8 +30,9 @@
 
 ## Run server
 1. `cd file-on-blockchain/app`
-2. `python server.py`
-3. :star:
+2. `python -m pip install -r requirements.txt`
+3. `python server.py`
+4. :star:
 
 
 [upload]: https://raw.githubusercontent.com/JungWinter/JungWinter.github.io/master/images/20171203/02_upload_file.png
